@@ -10,6 +10,7 @@ These simple examples in basic are my first steps into discovering the machine a
 To run these, simply copy them over (probably using an SD card) and load them with `load 'program name.bas'` followed by `run`. When you're done, just hit `CTRL-C` to break execution from an infinite loop.
 
 ## DancingValk
+![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancevalkthumb.png)
 Using a pre-compiled sprite object from Ernesto Contreras' demo project in basic, along with its default palette file
 Files that are expected in the same directory:
 -dance.bas
