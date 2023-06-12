@@ -15,8 +15,12 @@ To run these, simply copy them over (probably using an SD card) and load them wi
 ![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancevalkthumb.png)
 
 Using a pre-compiled sprite object from Ernesto Contreras' demo project in basic, along with its default palette file
-Files that are expected in the same directory:
+
+### Files that are expected in the same directory:
 
 * `dance.bas`
 * `default.pal`
 * `valkyre.bspr`
+
+### Controls
+Use the joystick in port 2 to move around and dance (using the fire button) or control with the keyboard with 'Z' and 'X' for left and right and 'K' and 'M' for up and down and 'L' to dance (fire).
