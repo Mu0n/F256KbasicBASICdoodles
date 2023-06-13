@@ -12,7 +12,7 @@ These simple examples in basic are my first steps into discovering the machine a
 To run these, simply copy them over (probably using an SD card) and load them with `load 'program name.bas'` followed by `run`. When you're done, just hit `CTRL-C` to break execution from an infinite loop.
 
 ## BlinkBlue
-![Blue LED blink]([https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancevalkthumb.png](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/blinkblue/blink.gif))
+![Blue LED blink](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/blinkblue/blink.gif)
 
 Very simple code that toggles the Bit[2] (L0) from the Sys0 register (at $D6A0), which will make the SD card access blue LED blink
 
