@@ -17,7 +17,7 @@ To run these, simply copy them over (probably using an SD card) and load them wi
 Very simple code that toggles the Bit[2] (L0) from the Sys0 register (at $D6A0), which will make the SD card access blue LED blink
 
 ## DancingValk
-![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancevalkthumb.png)
+![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancinvalk.gif))
 
 Using a pre-compiled sprite object from Ernesto Contreras' demo project in basic, along with its default palette file
 
