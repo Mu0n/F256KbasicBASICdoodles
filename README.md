@@ -16,6 +16,10 @@ To run these, simply copy them over (probably using an SD card) and load them wi
 
 Very simple code that toggles the Bit[2] (L0) from the Sys0 register (at $D6A0), which will make the SD card access blue LED blink
 
+### Files that are expected in the same directory:
+
+* `blink.bas`
+
 ## DancingValk
 ![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancinvalk.gif))
 
