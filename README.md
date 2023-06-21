@@ -35,7 +35,7 @@ Using a pre-compiled sprite object from Ernesto Contreras' demo project in basic
 Use the joystick in port 2 to move around and dance (using the fire button) or control with the keyboard with 'Z' and 'X' for left and right and 'K' and 'M' for up and down and 'L' to dance (fire).
 
 ## Inlineasm
-![image](https://github.com/Mu0n/F256KbasicBASICdoodles/assets/6774826/781365da-755f-4f84-a37d-91e44463e060)
+![Screenshot 2023-06-20 23-55-39](https://github.com/Mu0n/F256KbasicBASICdoodles/assets/6774826/a8fc4fec-fc5d-4949-856b-5e69dd85aa95)
 
 An example usage of the `assemble` superbasic token that puts inline assembly instructions into a specific area of RAM.
 
