@@ -9,7 +9,7 @@
 110   end 
 199   proc dopixel(px,py)
 200   x0#=-2.0+px/320.0*3.0
-300   y0#=-1.0+py/200.0*2.0
+300   y0#=-1.0+py/240.0*2.0
 302   cls 
 303   print "x:";px;" y:";py
 305   quitloop=0
