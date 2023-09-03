@@ -44,9 +44,10 @@ An example usage of the `assemble` superbasic token that puts inline assembly in
 * `inlineasm.bas`
 
 ## Fractal
-![image](https://github.com/Mu0n/F256KbasicBASICdoodles/assets/6774826/fcd8f27e-4e4c-43e2-9871-1062e63d8542)
 
-Generates the well-known Mandelbrot fractal using all 320x240 pixels and 40 colors as per the `maxiter` variable. This algorithm uses superbasic floats (varnam#) and is of course, quite slow. For some reason, it breaks at a random spot on my machine, complaining about a perfectly working line of my fractal algorithm loop. I can return to the exact line again by tweaking my loop indices and it'll work no problem on that new pass. I'm hoping other people can run the same piece of code and report if they have the same intermittent problem.
+![Screenshot 2023-07-25 15-46-32](https://github.com/Mu0n/F256KbasicBASICdoodles/assets/6774826/67a18fd0-62f8-4ca3-bc76-64d478797aab)
+
+Generates the well-known Mandelbrot fractal using all 320x240 pixels and 40 colors as per the `maxiter` variable. This algorithm uses superbasic floats (varnam#) and is of course, quite slow. 
 
 ### Files that are expected in the same directory:
 
