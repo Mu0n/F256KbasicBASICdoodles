@@ -52,3 +52,14 @@ Generates the well-known Mandelbrot fractal using all 320x240 pixels and 40 colo
 
 * `mandel.bas`
 
+## Pulse Sound Generator Piano
+
+![Snapshot - 127](https://github.com/Mu0n/F256KbasicBASICdoodles/assets/6774826/e0b0f2e9-54ed-4501-ba70-f08ade3a2d91)
+
+Lets you do extremely simple tune to make the Pulse Sound Generator play square waves. The notes die out after a few ticks if you let go of the keys, but you can sustain them longer by holding them down. QWERTYUIOP gives you white notes starting from the C right under the orchestral A (440Hz) and 23 567 90 gives you the appropriate semi-tones (ie black notes). Press Escape to quit.
+
+### Files that are expected in the same directory:
+
+* `sound01.bas`
+
+
