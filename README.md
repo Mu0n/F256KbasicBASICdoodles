@@ -1,4 +1,11 @@
 # F256KbasicBASICdoodles
+
+**looking for examples in other languages?**
+
+_Go check my repo for ASM doodles here:_ https://github.com/Mu0n/F256KsimpleASMdoodles
+
+_Go check my repo for C doodles here:_ https://github.com/Mu0n/F256KsimpleCdoodles
+
 A collection of small superbasic experiments for the F256K from Foenix Retro Systems
 
 ## Foenix Retro Systems
