@@ -70,4 +70,15 @@ v0.5 - Lets you do extremely simple tunes to make the Pulse Sound Generator play
 
 * `piano.bas`
 
+## loadBitmap
+
+![loadbitmap](https://github.com/user-attachments/assets/5d3a3fe6-9a7f-4953-b723-80d8374209bc)
+
+Loads a bitmap at $01000 from a fbmp file that can be generated from Ernesto's F256 Toolkit (see: https://github.com/econtrerasd/F256-GraphicToolkit), also needs a palette .pal file produced from the same toolkit.
+
+### Files that are expected in the same directory:
+
+* `loadBitmap.bas`
+* `z66.fbmp`
+* `z66.pal`
 
