@@ -34,7 +34,7 @@ Shows all 256 colors of the default palette in a 10x10 block per color, 16x16 co
 
 ### Files that are expected in the same directory:
 
-* `showpalette.bas
+* `showpalette.bas`
 
 ## DancingValk
 ![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancinvalk.gif))
