@@ -27,6 +27,15 @@ Very simple code that toggles the Bit[2] (L0) from the Sys0 register (at $D6A0),
 
 * `blink.bas`
 
+## ShowPalette
+![image](https://github.com/user-attachments/assets/c475b246-4ace-492b-a156-e035a67a0a51)
+
+Shows all 256 colors of the default palette in a 10x10 block per color, 16x16 color grid
+
+### Files that are expected in the same directory:
+
+* `showpalette.bas
+
 ## DancingValk
 ![Dancing Valk!](https://raw.githubusercontent.com/Mu0n/F256KbasicBASICdoodles/main/DancingValk/dancinvalk.gif))
 
