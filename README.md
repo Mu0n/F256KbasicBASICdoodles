@@ -79,4 +79,14 @@ v0.5 - Lets you do extremely simple tunes to make the Pulse Sound Generator play
 
 * `piano.bas`
 
+## SAM2695 midi test
+
+![image](https://github.com/user-attachments/assets/62033785-3a07-42c5-b023-9b77766ebf8f)
+
+Detects your machine ID, lets you know if you have one that allows midi output with sam2695 (F256K2 and F256Jr2 in their classic cores), lets you carry on either way, and plays a C major scale with a small delay between notes.
+
+### Files that are expected in the same directory:
+
+* `sam.bas`
+
 
