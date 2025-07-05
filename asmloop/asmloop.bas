@@ -1,0 +1,1 @@
+90    for i=0 to 1100   assemble $6000,i110   lda #2120   sta $0001130   lda #64140   ldx #80145   .loop150   dex155   sta $C000,x160   cpx #0165   bne loop170   rts 175   next 180   call $6000
