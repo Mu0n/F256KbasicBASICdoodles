@@ -59,6 +59,16 @@ An example usage of the `assemble` superbasic token that puts inline assembly in
 
 * `inlineasm.bas`
 
+## asmloop
+
+![asmloop](https://github.com/user-attachments/assets/40beda68-bc36-4568-9e24-3c484f371b92)
+
+Slightly more complicated inline assembly program that gets automatically called as soon as it finishes assembling. Writes a bunch of @ in the first line of text.
+
+### Files that are expected in the same directory:
+
+* `asmloop.bas`
+
 ## Fractal
 
 ![Screenshot 2023-07-25 15-46-32](https://github.com/Mu0n/F256KbasicBASICdoodles/assets/6774826/67a18fd0-62f8-4ca3-bc76-64d478797aab)
